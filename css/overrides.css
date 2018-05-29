@@ -16,3 +16,7 @@
     font-weight: 700;
     margin-right: 15px;
 }
+
+.reveal .lg-txt {
+    font-size: 200%;
+}
